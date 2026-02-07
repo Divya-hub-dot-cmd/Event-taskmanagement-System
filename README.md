@@ -40,7 +40,7 @@ Screenshots are available in the `/screenshots` folder:
 
 screenshots/
 ├── kanban.png
-├── calendar.png
+├── calender.png
 └── task-details.png
 ## 📸 Application Screenshots
 
