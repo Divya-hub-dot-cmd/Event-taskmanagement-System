@@ -42,7 +42,18 @@ screenshots/
 ├── kanban.png
 ├── calendar.png
 └── task-details.png
+## 📸 Application Screenshots
 
+### 🗂 Kanban Board
+![Kanban Board](screenshots/kanban.png)
+
+### 📆 Calendar View
+![Calendar View](screenshots/calender.png)
+
+### 📋 Task List View
+![Task List](screenshots/TaskList.png)
+
+---
 
 ---
 
